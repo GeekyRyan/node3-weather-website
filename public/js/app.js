@@ -1,5 +1,4 @@
 // client-side javascript
-console.log('Client side javascript file is loaded!')
 
 /// select the DOM elements
 const weatherForm = document.querySelector('form')
